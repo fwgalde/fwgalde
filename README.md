@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fwgalde
-- 👀 I’m interested in learning abouth philosophy, phsycology. I also enjoy listening to music or watching videos on YouTube.
+- 👀 I’m interested in learning about philosophy, phsycology. I also enjoy listening to music or watching videos on YouTube.
 - 🌱 I’m currently learning introduction to computer science at UNAM.
 - 💞️ I’m looking to collaborate on project which can allowed me to imporve my programming understanding.
 - 📫 How to reach me ... you can send dm here or send me an email on Twitter @ViStoney
